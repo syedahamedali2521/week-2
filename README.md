@@ -1,0 +1,1 @@
+Wind power forecasting predicts future electricity output from wind farms, crucial for grid stability and efficient energy management, using various methods like physical models, statistical analysis, and machine learning. 
